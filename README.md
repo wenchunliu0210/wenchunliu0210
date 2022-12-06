@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="coding" width="20%" />
 </h1>
 
