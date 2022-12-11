@@ -25,8 +25,22 @@
 - :seedling: Enjoy learning the techniques and skills of web development.
 - :mailbox: How to reach me: a0953535160@gmail.com
 
+<br />
+
 ### :hammer_and_wrench: Languages and Tools:
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' title="Html5" alt="Html5" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' title="Css3" alt="Css3" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' title="Sass" alt="Sass" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg' title="Stylus" alt="Stylus" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' title="Javascript" alt="Javascript" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' title="Typescript" alt="Typescript" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' title="Vuejs" alt="Vuejs" width="32" height="32"/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg' title="Nuxtjs" alt="Nuxtjs" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' title="Vuetify" alt="Vuetify" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' title="Markdown" alt="Markdown" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' title="Mysql" alt="Mysql" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' title="Vscode" alt="Vscode" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' title="Git" alt="Git" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' title="Github" alt="Github" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' title="Gitlab" alt="Gitlab" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg' title="Bitbucket" alt="Bitbucket" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' title="Firebase" alt="Firebase" width="32" height="32"/>
+
+<br />
+
+### :fire: My Stats :
+[![GitHub Streak Dark](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+
+[![GitHub Streak Light](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 <!---
 wenchunliu0210/wenchunliu0210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
