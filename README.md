@@ -1,15 +1,5 @@
 <h1 align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="coding" width="25%" />
-  </picture>
+  <img src="https://media.giphy.com/media/JFeea62zpwlmhgKHby/giphy.gif" alt="coding" width="80%" />
 </h1>
 
 <div aria-label="badges" align="center">
@@ -43,13 +33,9 @@
 <br />
 
 ### :fire: My Stats :
-[![GitHub Streak Dark](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily)](https://git.io/streak-stats)
 
-[![GitHub Streak Light](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
