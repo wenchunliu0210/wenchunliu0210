@@ -1,5 +1,15 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="coding" width="25%" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="coding" width="25%" />
+  </picture>
 </h1>
 
 <div aria-label="badges" align="center">
