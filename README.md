@@ -36,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenchunliu0210&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Wen Chun's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
