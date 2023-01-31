@@ -18,26 +18,34 @@
 </div>
 <br />
 
-### :woman_technologist: About Me:
+<div align="center">
 
-- :wave: Hi, I’m Wen Chun Liu.
-- :briefcase: Currently work as a frontend web developer.
-- :seedling: Enjoy learning the techniques and skills of web development.
-- :mailbox: How to reach me: a0953535160@gmail.com
+  ### :woman_technologist: About Me:
 
-<br />
+  :wave: Hi, I’m Wen Chun Liu.
 
-### :hammer_and_wrench: Languages and Tools:
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' title="Html5" alt="Html5" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' title="Css3" alt="Css3" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' title="Sass" alt="Sass" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg' title="Stylus" alt="Stylus" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' title="Javascript" alt="Javascript" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' title="Typescript" alt="Typescript" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' title="Vuejs" alt="Vuejs" width="32" height="32"/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg' title="Nuxtjs" alt="Nuxtjs" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' title="Vuetify" alt="Vuetify" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' title="Markdown" alt="Markdown" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' title="Mysql" alt="Mysql" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' title="Vscode" alt="Vscode" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' title="Git" alt="Git" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' title="Github" alt="Github" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' title="Gitlab" alt="Gitlab" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg' title="Bitbucket" alt="Bitbucket" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' title="Firebase" alt="Firebase" width="32" height="32"/>
+  :briefcase: Currently work as a frontend web developer.
 
-<br />
+  :seedling: Enjoy learning the techniques and skills of web development.
 
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats-wenchunliu0210.vercel.app/api/top-langs/?username=wenchunliu0210&layout=compact)](https://github.com/wenchunliu0210/github-readme-stats)&nbsp;
-![LeetCode Stats](https://leetcode.card.workers.dev/a0193034?theme=default&font=source_code_pro&extension=null&width=350&height=140)
+  :mailbox: How to reach me: a0953535160@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily)](https://git.io/streak-stats)&nbsp;&nbsp;[![Wen Chun's GitHub stats-Dark](https://github-readme-stats-wenchunliu0210.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=radical)](https://github.com/wenchunliu0210/github-readme-stats)
+  <br />
 
+  ### :hammer_and_wrench: Languages and Tools:
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' title="Html5" alt="Html5" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' title="Css3" alt="Css3" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' title="Sass" alt="Sass" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg' title="Stylus" alt="Stylus" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' title="Javascript" alt="Javascript" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' title="Typescript" alt="Typescript" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg' title="Vuejs" alt="Vuejs" width="32" height="32"/>  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg' title="Nuxtjs" alt="Nuxtjs" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg' title="Vuetify" alt="Vuetify" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg' title="Markdown" alt="Markdown" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' title="Mysql" alt="Mysql" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' title="Vscode" alt="Vscode" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' title="Git" alt="Git" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' title="Github" alt="Github" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg' title="Gitlab" alt="Gitlab" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg' title="Bitbucket" alt="Bitbucket" width="32" height="32"/> <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' title="Firebase" alt="Firebase" width="32" height="32"/>
+
+  <br />
+
+  ### :fire: My Stats :
+  [![Top Langs](https://github-readme-stats-wenchunliu0210.vercel.app/api/top-langs/?username=wenchunliu0210&layout=compact)](https://github.com/wenchunliu0210/github-readme-stats)&nbsp;&nbsp;![LeetCode Stats](https://leetcode.card.workers.dev/a0193034?theme=default&font=source_code_pro&extension=null&width=350&height=140)
+
+  [![Wen Chun's GitHub stats-Dark](https://github-readme-stats-wenchunliu0210.vercel.app/api?username=wenchunliu0210&hide_title=true&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/wenchunliu0210/github-readme-stats)
+
+  [![Wen Chun's GitHub Streak](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily)](https://git.io/streak-stats)
+  
+</div>
+  
 <!---
 wenchunliu0210/wenchunliu0210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
