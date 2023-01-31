@@ -33,12 +33,10 @@
 <br />
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats-wenchunliu0210.vercel.app/api/top-langs/?username=wenchunliu0210&layout=compact)](https://github.com/wenchunliu0210/github-readme-stats)
+[![Top Langs](https://github-readme-stats-wenchunliu0210.vercel.app/api/top-langs/?username=wenchunliu0210&layout=compact)](https://github.com/wenchunliu0210/github-readme-stats)&nbsp;
+![LeetCode Stats](https://leetcode.card.workers.dev/a0193034?theme=default&font=source_code_pro&extension=null&width=350&height=140)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Wen Chun's GitHub stats-Dark](https://github-readme-stats-wenchunliu0210.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=radical)](https://github.com/wenchunliu0210/github-readme-stats)
-
-![LeetCode Stats](https://leetcode.card.workers.dev/a0193034?theme=unicorn&font=source_code_pro&extension=null)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wenchunliu0210&theme=radical&mode=daily)](https://git.io/streak-stats)&nbsp;&nbsp;[![Wen Chun's GitHub stats-Dark](https://github-readme-stats-wenchunliu0210.vercel.app/api?username=wenchunliu0210&show_icons=true&theme=radical)](https://github.com/wenchunliu0210/github-readme-stats)
 
 <!---
 wenchunliu0210/wenchunliu0210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
