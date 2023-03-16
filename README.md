@@ -48,7 +48,8 @@
 
 
   ### :fire: My Stats :
-  [![Top Langs](https://github-readme-stats-wenchunliu0210.vercel.app/api/top-langs/?username=wenchunliu0210&layout=compact)](https://github.com/wenchunliu0210/github-readme-stats)&nbsp;&nbsp;![LeetCode Stats](https://leetcode.card.workers.dev/a0193034?theme=default&font=source_code_pro&extension=null&width=350&height=140)
+  [![Top Langs](https://github-readme-stats-wenchunliu0210.vercel.app/api/top-langs/?username=wenchunliu0210&layout=compact)](https://github.com/wenchunliu0210/github-readme-stats)
+<!--   &nbsp;&nbsp;![LeetCode Stats](https://leetcode.card.workers.dev/a0193034?theme=default&font=source_code_pro&extension=null&width=350&height=140) -->
 
   [![Wen Chun's GitHub stats-Dark](https://github-readme-stats-wenchunliu0210.vercel.app/api?username=wenchunliu0210&hide_title=true&hide=stars&count_private=true&show_icons=true&theme=radical)](https://github.com/wenchunliu0210/github-readme-stats)
 
